@@ -1,0 +1,16 @@
+{
+  "font": {
+    "family": {
+      "base": { "$type": "fontFamily", "$value": ["Georgia", "serif"] }
+    },
+    "size": {
+      "$type": "dimension",
+      "base": { "$value": { "value": 17, "unit": "px" } },
+      "heading": { "$value": { "value": 2.25, "unit": "rem" } }
+    },
+    "weight": {
+      "$type": "fontWeight",
+      "heading": { "$value": "bold" }
+    }
+  }
+}
